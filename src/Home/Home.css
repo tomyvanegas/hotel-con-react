@@ -1,8 +1,8 @@
 .banner{
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/hotel-clase.appspot.com/o/booking-luxury-hotel-banner-background-eps_6126596.jpg!bw700?alt=media&token=3d1e8ec7-fbdb-4e28-9313-895ad893c4ac);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/hotel-clase.appspot.com/o/imghotelh.jpg?alt=media&token=4f37dc1d-f51c-4a16-9236-210307e65996);
     background-position: top center;
     background-size: cover;
-    padding: 5% 50% 35% 5%;
+    padding: 5% 50% 30% 5%;
     position: relative;
     z-index: 1 ;
 }
@@ -14,5 +14,7 @@
     z-index: -1;
     top: 0;
     left: 0;
-    opacity: 1;
+    opacity: 0.5;
+    height: 100%;
+    width: 100%;
 }

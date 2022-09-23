@@ -46,7 +46,8 @@ export function Habitaciones(){
                                     <div class="card-body">
                                         <h5 class="card-title">{habitacion.nombre}</h5>
                                         <p class="card-text">{habitacion.descripcion}</p>
-                                        <a href="#" class="btn btn-primary">Ir Habitacion</a>
+                                        <h2 className='text-start'>${habitacion.valorNoche}</h2>
+                                        <a class="btn btn-primary">Reservar</a>
                                     </div>
                                 </div>
                             </div>
